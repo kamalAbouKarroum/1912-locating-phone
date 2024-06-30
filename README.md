@@ -16,9 +16,10 @@ For creating your own cyber tool, phishing template of any website. Dm me on tel
 
 # Usage:
 1. apt install python3
-2. cd 1912-locatingphone
-3. python3 locate_phone.py
-4. !Enjoy!
+2. git clone https://github.com/kamalAbouKarroum/1912-locating-phone.git
+3. cd 1912-locatingphone
+4. python3 locate_phone.py
+5. !Enjoy!
 
 
 
